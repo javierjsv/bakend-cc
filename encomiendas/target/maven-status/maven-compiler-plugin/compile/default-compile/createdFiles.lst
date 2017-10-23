@@ -1,0 +1,14 @@
+com/encomienda/entities/Encomienda.class
+com/encomienda/services/ClientesREST.class
+com/encomienda/entities/Encomienda_.class
+com/encomienda/entities/Clientes_.class
+com/encomienda/sessions/CiudadesFacade.class
+com/encomienda/entities/Clientes.class
+com/encomienda/services/EncomiendaREST.class
+com/encomienda/services/CiudadesREST.class
+com/encomienda/sessions/ClientesFacade.class
+com/encomienda/entities/Ciudades_.class
+com/encomienda/services/ApplicationConfig.class
+com/encomienda/sessions/EncomiendaFacade.class
+com/encomienda/entities/Ciudades.class
+com/encomienda/sessions/AbstractFacade.class
